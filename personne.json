@@ -1,8 +1,1 @@
-[
-{
-    "nom": "Chemin",
-    "prenom": "Zélie",
-    "age": 30,
-    "sexe": "f"
-}
-]
+{"nom":"Laforge","prenom":"Thomas","age":30,"sexe":"f"}
